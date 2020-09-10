@@ -1,2 +1,2 @@
 # Veeworld
-Test repository for pythin
+Test repository for python
